@@ -1,3 +1,44 @@
-.kozepsoOszlop{
+.narancs{
     background-color: orange;
+}
+body {
+    box-sizing: border-box;
+    background-image: url("../images/hatter.png");
+}
+
+.elsoSor {
+    font-size: 40px;
+}
+
+.fehér {
+    background-color: white;
+}
+
+#cim {
+    padding: 35px;
+}
+
+.masodiksor {
+    margin-top: 20px;
+    margin-bottom: 15px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+.masodiksor a {
+    text-decoration: none;
+    width: auto;
+    padding-left: 4rem;
+    padding-right: 4rem;
+    color: orange;
+    font-style: italic;
+}
+
+.harmadiksor {
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+.homoktovis {
+    font-weight: 700;
 }
